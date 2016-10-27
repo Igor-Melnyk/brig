@@ -1,2 +1,2 @@
 # brig
-add string to readme file.
+Add string to readme file.
